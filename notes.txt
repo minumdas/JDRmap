@@ -1,0 +1,30 @@
+Java Developer Roadmap
+
+Day 1 - Git Fundamentals
+
+Topics Covered:
+1. What is Git
+2. Repository
+3. Commit
+4. Branch
+5. Merge
+6. Pull Request
+
+Important Commands:
+git init
+git status
+git add .
+git commit -m "message"
+git branch
+git checkout
+git merge
+git push
+git pull
+
+Interview Questions:
+1. Difference between Git and GitHub?
+2. What is a branch?
+3. What is HEAD?
+4. Merge vs Rebase?
+
+Practice Completed Successfully.
